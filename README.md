@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Manik Babu
+# 👋 Hi, I'm Manik Babu
 
 I'm a passionate **Full Stack Web Developer** from **Bangladesh** who loves building powerful, scalable, and modern web applications.  
 Currently, I'm diving deep into **Next.js**, **TypeScript**, **PostgreSQL**, **Docker**, and **Go** — the technologies that help me bring ideas to life efficiently.
