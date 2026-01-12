@@ -19,7 +19,7 @@ Currently, I'm diving deep into **Next.js**, **TypeScript**, **PostgreSQL**, **D
 ## 🧰 Tech Stack
 
 **Frontend:**  
-Next.js • React • TypeScript • Tailwind CSS  
+HTML • CSS • Tailwind CSS • JavaScript • TypeScript • React  • Next.js 
 
 **Backend:**  
 Node.js • Express.js • Go (Golang)  
