@@ -47,8 +47,7 @@ Docker • Git & GitHub • Linux (Arch) • VS Code
 ---
 
 ## 💻 Projects
-- **Media App** – A full-stack social media-style platform using MERN & Next.js  
-- **Chat App** – Real-time one-on-one messaging with profile editing  
+- **CampusOS** – A full-stack university management system using MERN & Next.js  
 - **eCommerce App** – T-shirt selling platform with cart and order system  
 
 ---
