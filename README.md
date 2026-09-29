@@ -60,7 +60,7 @@ Docker • Git & GitHub • Linux (Arch) • VS Code
 ---
 
 ## 📫 Connect with Me
-📧 **Email:** mdmanikbabu48@gmail.com  
+📧 **Email:** manikbabu.dev@gmail.com  
 🌐 **GitHub:** [github.com/manik-babu](https://github.com/manik-babu)  
 
 ---
