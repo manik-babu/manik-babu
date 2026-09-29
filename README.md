@@ -25,7 +25,7 @@ HTML • CSS • Tailwind CSS • JavaScript • TypeScript • React  • Next.
 Node.js • Express.js • Go (Golang)  
 
 **Database:**  
-PostgreSQL • MongoDB  
+MySQL • PostgreSQL • MongoDB  
 
 **DevOps & Tools:**  
 Docker • Git & GitHub • Linux (Arch) • VS Code  
